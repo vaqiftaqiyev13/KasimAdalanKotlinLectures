@@ -1,0 +1,4 @@
+package interfacePack
+
+class Lion {
+}
